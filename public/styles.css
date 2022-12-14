@@ -39,6 +39,19 @@ h1 {
 color: transparent;
 }
 
+.container-snow{
+  min-height: 50px;
+  padding-top: 20px;
+  text-align: center;
+  background-image: url('https://www.moneyunder30.com/wp-content/uploads/2021/05/nyan-cat.gif');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  clip-path: url('https://upload.wikimedia.org/wikipedia/commons/0/0f/Scandinavian_Snowflake.svg');
+color: transparent;
+  
+}
+
 .circle {
   height: 100px;
   width: 100px;
